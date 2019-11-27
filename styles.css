@@ -67,7 +67,6 @@ body {
 
     position: relative;
 
-    padding: 2rem;
     background: #0c0c0c;
 
     display: flex;
@@ -88,6 +87,8 @@ body {
 .front-content {
     position: absolute;
 
+    padding: 2rem;
+
     display: flex;
     flex-direction: column;
 
@@ -102,6 +103,8 @@ body {
 
 .back-content {
     position: absolute;
+    
+    padding: 2rem;
 
     display: flex;
     flex-direction: column;
