@@ -4,4 +4,7 @@
 ### Preview:
  https://brunos3d.github.io/3D-Cards/
 
-![Preview](./preview.gif)
+<p align="center">
+    <img width="460" height="auto" src="./preview.gif">
+</p>
+
